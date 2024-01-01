@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue JS, new tech, and learning new things such as new updates, and features related to current tech**
 
-- 💬 Ask me about **PHP | Laravel| Javascript | Next JS | MERN & TALL Stack**
+- 💬 Ask me about **PHP | Laravel | Javascript | Next JS | MERN & TALL Stack**
 
 - 📫 How to reach me **divakarrajodiya@gmail.com**
 
